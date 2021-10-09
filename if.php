@@ -9,5 +9,5 @@ if ($hungry) {
 if (! $hungry) {
     echo 'you are not hungry';
 } else {
-    echo 'you are hungry'
+    echo 'you are hungry';
 }
